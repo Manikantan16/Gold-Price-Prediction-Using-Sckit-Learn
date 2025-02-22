@@ -43,3 +43,5 @@
  - Using Gradio created the user interface within the Jupyter notebook, allowing the prediction of gold rates based on the USD/INR exchange rate.
 
    ![image](https://github.com/user-attachments/assets/6a64c859-6846-40e3-a349-c9a136d16013)
+
+  Before concluding, I want to sincerely thank my friend Sunitha 🙏 for being such an amazing source of inspiration.
